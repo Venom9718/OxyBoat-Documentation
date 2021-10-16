@@ -21,5 +21,5 @@
   
   <h4>Why OxyBoat?</h4>
   OxyBoat has alot of new discord features like buttons, slash commands, context menus and support most of the platforms like youtube, spotify, soundcloud even more.
-  It is fun, easy, flexible, fast and what else you need more? [Invite OxyBoat](https://dsc.gg/oxyboat) now!
+  It is fun, easy, flexible, fast and what else you need more? <a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> now!
 </p>
