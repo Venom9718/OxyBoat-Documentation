@@ -4,9 +4,8 @@
 
 ## Basic Information
 
-* [Player Controls](Player/player.md)
+* [Player Controls](basic-information/player-controls.md)
 
 ## Configuration
 
-* [Setting a custom prefix](api/stats.md)
-
+* [Setting a custom prefix](configuration/setting-a-custom-prefix.md)
