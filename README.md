@@ -8,5 +8,5 @@
 </p>
 
 <p align = "center">
-  <a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a>
+  <a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> ~ <a href = "https://discord.gg/jN8AKsPcwu">Support Server</a>
 </p>
