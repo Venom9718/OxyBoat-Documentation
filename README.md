@@ -12,7 +12,7 @@
 </p>
 
 <p>
-  <h2>Get Started</h2>
+  <h1>Get Started</h1>
   <h4>What is OxyBoat?</h4>
   OxyBoat is a discord music bot with a wide variety of advanced music message and slash commands, helps you make your server more cool.
   OxyBoat has alot features like 24/7, autoplay, dj system, song request channel setup and more! The fun fact is, its all free.
