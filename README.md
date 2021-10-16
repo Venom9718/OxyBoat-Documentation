@@ -13,7 +13,6 @@
 
 <p>
   <h2>Getting Started</h2>
-  <br>
   <h3>What is OxyBoat?</h3>
   <br>
   OxyBoat is a discord music bot with a wide variety of advanced music commands and helps you make your server more cool!
