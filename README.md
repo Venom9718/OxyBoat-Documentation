@@ -5,5 +5,5 @@
 
   <h1 align = "center">OxyBoat</h1>
   <h3 align = "center">OxyBoat is a discord music bot with a wide variety of commands.</h3>
-  <h4 align = "center">[Invite OxyBoat](https://dsc.gg/oxyboat)</h4>
+  <a herf = "https://dsc.gg/oxyboat">Invite OxyBoat</a>
 </p>
