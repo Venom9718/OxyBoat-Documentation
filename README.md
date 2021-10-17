@@ -1,7 +1,7 @@
 ---
-description: >-
-  Here's a quick getting started guide just to get you on your feet and explain
-  how to get the best experience you can.
+Home: >-
+  Here's a quick documentation/guide just to get you on your feet and explain
+  how to use OxyBoat.
 ---
 
 # Get Started
