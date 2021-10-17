@@ -73,6 +73,11 @@ What if its a playlist then?
 <h2>Why is it saying "You don't have enough permissions or the dj role to use this command." while using some commands?</h2>
 <p>
   It is mainly because the dj system is enabled as default and this will show up if you don't have enough permission (default: Deafen Members) or dj role (if there is a dj setup).<br><br>
-  <b>So how can I disable?</b><br>
-  You cannot disable this without doing the dj setup! If you already have a dj setup or dj role then you just have to <b>dj toggle</b> command, this will toggle enable/disable the dj system. 
+  <b>So how can I disable it?</b><br>
+  You cannot disable this without doing the dj setup! If you already have a dj setup or dj role then you just have to <b>dj toggle</b> command, this will toggle enable/disable the dj system. <a href = "#how-can-I-setup-a-dj-role/system?">Click here to see how to setup dj role/setup!</a>
 </p>
+
+<h2>How can I setup a dj role/system?</h2>
+<p>
+  
+  </p>
