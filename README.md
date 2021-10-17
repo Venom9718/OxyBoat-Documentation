@@ -5,7 +5,5 @@
 <p align = "center">
   <h1 align = "center">OxyBoat</h1>
   <h3 align = "center">A advanced discord music bot</h3>
-  <center>
-    <a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> ~ <a href = "https://discord.gg/jN8AKsPcwu">Support Server</a>
-  </center>
+  <h4 align = "center"><a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> ~ <a href = "https://discord.gg/jN8AKsPcwu">Support Server</a></h4>
 </p>
