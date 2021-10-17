@@ -1,16 +1,21 @@
 <h1>FAQ</h1>
+<p>
 <br>
+<i>Note: <b><></b> means that it's required, <b>[]</b> this means that its optional</i>
+<br>
+</p>
 
 <h2>How can I play a song?</h2>
 <p>
 You can play a song by joining a voice channel and providing a search query (which is required) using either message command <u>play</u> or slash command <u>/play</u>. If you didn't provide any search query then it will give you a guide how to use this that specific play command. It supports <i>youtube, spotify, soundcloud, deezer and more</i>. If you provide a name, then it will search for that query in youtube and you will get three track selection options, you can choose any of it by clicking the buttons. If you don't select any in 60 seconds then it will load the first track loaded from the search result.
-<br>
+<br><br>
+<b>Usage:</b> ?play <query>
 <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899173862137294968/unknown.png"></img>
-<br>
+<br><br>
 What if I provided a url? Then it will directly load the track!
 <br>
 <img src = "https://media.discordapp.net/attachments/892270315630133268/899183026687311902/unknown.png"></img>
-<br>
+<br><br>
 What if its a playlist then?
 <br>
 <img src = "https://media.discordapp.net/attachments/892270315630133268/899183834598346792/unknown.png"></img>
@@ -43,4 +48,12 @@ What if its a playlist then?
   It's because you don't have "Deafen Members" Permission or don't have the dj role to perform this command (if there is a dj setup).
   <br>
   <img src = "https://media.discordapp.net/attachments/892270315630133268/899187823507300412/unknown.png"></img>
-  </p>
+ </p>
+ 
+ <h2>How can I skip to a song in the queue?</h2>
+<p>
+  You can skip to a song in the queue by just using <b>skipto</b> command with the songs id (number) from the queue in either message or slash command. If you provide an invalid track number from the queue or its more than or equal to 0 then it will not completly perform that command!
+  <br><br>
+  <b>Usage:</b> ?skipto <track_number>
+  <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899193560589549619/unknown.png"></img>
+</p>
