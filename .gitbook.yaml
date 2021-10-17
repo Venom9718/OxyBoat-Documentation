@@ -4,7 +4,4 @@ structure:
   readme: README.md
   summary: SUMMARY.md
 
-  redirects:
-
-  about: ./Basic/player.md
-  stats: ./Configuration/prefix.md
+ 
