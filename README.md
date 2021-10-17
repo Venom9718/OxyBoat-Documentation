@@ -8,7 +8,7 @@ description: >-
 
 ![](https://capsule-render.vercel.app/api?type=waving\&color=gradient\&height=200\&section=header\&text=OxyBoat\&fontSize=80\&fontAlignY=35\&animation=twinkling\&fontColor=gradient)
 
-![Pbot-plus](https://cdn.discordapp.com/attachments/892270315630133268/898890417964212234/1634382532130.png)
+![s](https://cdn.discordapp.com/attachments/892270315630133268/898890417964212234/1634382532130.png)
 
 ## OxyBoat
 
