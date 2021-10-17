@@ -17,9 +17,7 @@
   OxyBoat is free, easy, flexible, supports most of the platforms like youtube, spotify, soundcloud, deezer etc and has alot of variety of commands that you don't even know!
 </p>
 
+<p>
 <h2>Table of contents</h2>
----
-description: >-
-  OxyBoat is a discord music bot with a wide variety of advanced music message
-  and slash commands
----
+<a href = "#home">Home</a>
+</p>
