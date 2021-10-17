@@ -5,7 +5,7 @@
 ## Basic Information
 
 * [Player Controls](basic-information/player-controls.md)
-
+* [Playing From Spotify](basic-information/playing-from-spotify)
 ## Configuration
 
 * [Setting a custom prefix](configuration/setting-a-custom-prefix.md)
