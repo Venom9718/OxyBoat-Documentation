@@ -9,3 +9,4 @@
 ## Configuration
 
 * [Setting a custom prefix](configuration/setting-a-custom-prefix.md)
+* [How to setup DJ's](configuration/how-to-setup-dj's)
