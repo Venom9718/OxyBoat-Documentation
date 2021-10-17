@@ -51,7 +51,14 @@ What if its a playlist then?
  
  <h2>How can I skip to a song in the queue?</h2>
 <p>
-  You can skip to a song in the queue by just using <b>skipto</b> command with the songs id (number) from the queue in either message or slash command. If you provide an invalid track number from the queue or its more than or equal to 0 then it will not completly perform that command!
+  You can skip to a song in the queue by just using <b>skipto</b> command with the songs id (number) from the queue in either message or slash command. If you provide an invalid track number/id or equal to 0 then it will not completly perform that command!
   <br><br>
   <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899193560589549619/unknown.png"></img>
 </p>
+
+<h2>How can I jump to a song in the queue without skipping all the song in the way.</h2>
+<p>
+  You can just use <b>jumpto</b> command with the songs id (number) from the queue using either message or slash command. If you provide an invalid track number/id or equal to 0 then it will not completly perform that command!
+  <br><br>
+  <img src = "https://media.discordapp.net/attachments/892270315630133268/899204553407348756/unknown.png"></img>
+  </p>
