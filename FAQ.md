@@ -81,5 +81,26 @@ What if its a playlist then?
 
 <h2>How can I setup a dj role/system?</h2>
 <p>
-  
-  </p>
+  You can simply add/setup dj system via doing/using <b>dj add @role</b> message/slash command with a role. This will need you to have Manage Server/Guild
+ Permission else it won't work! By doing this, it will add the given role to dj roles.
+  <br><br>
+  <img src = "https://media.discordapp.net/attachments/892270315630133268/899226350500606012/unknown.png"></img>
+  <br><br>
+  <b>How can I remove a role that I added by mistake from the dj roles?</b>
+  <br>
+  You can remove a role from dj roles by just doing <b>dj remove id</b> with the id/number from the roles list.
+  <br><br>
+  <img src = "https://user-images.githubusercontent.com/78640257/137621092-40f29025-7352-455f-9e80-be625e3e59a7.png"></img>
+  <br><br>
+  <b>How can I get the added dj roles id/number?</b>
+  <br>
+  You can use <b>dj list</b> message/slash command to get the id/number of the added dj roles.
+  <br><br>
+  <img src = "https://user-images.githubusercontent.com/78640257/137621253-1d611517-c5de-416b-b3d4-3b9847cd29f3.png"></img>
+  <br><br>
+  <b>How can I clear the dj setup in my server?</b>
+  <br>
+  You can use <b>dj clear</b> message/slash command to clear the dj setup data.
+  <br><br>
+  <img src = "https://user-images.githubusercontent.com/78640257/137621396-a487abaa-1099-4457-857a-3c3cf9e38918.png"></img>
+</p>
