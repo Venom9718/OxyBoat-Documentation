@@ -56,9 +56,23 @@ What if its a playlist then?
   <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899193560589549619/unknown.png"></img>
 </p>
 
-<h2>How can I jump to a song in the queue without skipping all the song in the way.</h2>
+<h2>How can I jump to a song in the queue without skipping all the song in the way?</h2>
 <p>
   You can just use <b>jumpto</b> command with the songs id (number) from the queue using either message or slash command. If you provide an invalid track number/id or equal to 0 then it will not completly perform that command!
   <br><br>
   <img src = "https://media.discordapp.net/attachments/892270315630133268/899204553407348756/unknown.png"></img>
-  </p>
+</p>
+
+<h2>How can I pause the current playing song?</h2>
+<p>
+  You can use <b>pause</b> command in either message or slash command.
+  <br><br>
+  <img src = "https://media.discordapp.net/attachments/892270315630133268/899207476434579496/unknown.png"></img>
+</p>
+
+<h2>Why is it saying "You don't have enough permissions or the dj role to use this command." while using some commands?</h2>
+<p>
+  It is mainly because the dj system is enabled as default and this will show up if you don't have enough permission (default: Deafen Members) or dj role (if there is a dj setup).<br><br>
+  <b>So how can I disable?</b><br>
+  You cannot disable this without doing the dj setup! If you already have a dj setup or dj role then you just have to <b>dj toggle</b> command, this will toggle enable/disable the dj system. 
+</p>
