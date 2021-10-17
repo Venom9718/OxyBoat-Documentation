@@ -19,7 +19,7 @@
 
 <p>
 <h2>Table of contents</h2>
-<b>.</b> <a href = "#home">Home</a>
+<b>></b> <a href = "#home">Home</a>
 <br>
-<b>.</b> <a href = "#faq">FAQ</a>
+<b>></b> <a href = "#faq">FAQ</a>
 </p>
