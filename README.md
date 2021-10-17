@@ -20,6 +20,7 @@
 <p>
 <h2>Table of contents</h2>
 ---
-Home
+<a href = "https://github.com/Venom9718/OxyBoat-Documentation#home">Home</a>
+Some basic information about OxyBoat.
 ---
 </p>
