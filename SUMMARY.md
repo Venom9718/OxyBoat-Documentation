@@ -5,8 +5,9 @@
 ## Basic Information
 
 * [Player Controls](basic-information/player-controls.md)
-* [Playing From Spotify](basic-information/playing-from-spotify)
+* [Playing From Spotify](basic-information/playing-from-spotify.md)
+
 ## Configuration
 
 * [Setting a custom prefix](configuration/setting-a-custom-prefix.md)
-* [How to setup DJ's](configuration/how-to-setup-dj's)
+* [How to setup DJ's](configuration/how-to-setup-djs.md)
