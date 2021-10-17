@@ -12,11 +12,11 @@ You can play a song by joining a voice channel and providing a search query (whi
 <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899173862137294968/unknown.png"></img>
 <br><br>
 What if I provided a url? Then it will directly load the track!
-<br>
+<br><br>
 <img src = "https://media.discordapp.net/attachments/892270315630133268/899183026687311902/unknown.png"></img>
 <br><br>
 What if its a playlist then?
-<br>
+<br><br>
 <img src = "https://media.discordapp.net/attachments/892270315630133268/899183834598346792/unknown.png"></img>
 <br>
 </p>
@@ -25,7 +25,7 @@ What if its a playlist then?
 <h2>How can I get multiple search results for a query just than 3?</h2>
 <p>
   You can get multiple search results for a query by just using <u>search</u> command in either message or slash command. This can get upto 20 or more results! You can select a track from it by just typing the number of song provided in the embed in the channel. If the number that you've given is invalid or more or less than the search result then it will cancel the search result! You can find a example down below!
-  <br>
+  <br><br>
   <img src = "https://media.discordapp.net/attachments/892270315630133268/899180084714434600/unknown.png"></img>
 </p>
 
@@ -33,7 +33,7 @@ What if its a playlist then?
 <h2>How can I see the queue or queued songs?</h2>
 <p>
   You can see the queue by just using <u>queue</u> command in either message or slash command. One page only contains 8 or 10 songs. The now playing song will showed above and its not counted as a song in the queue! The queued songs contains its id, name/url , duration and the requester. You see a example given down below.
-<br>
+<br><br>
   <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899181538829303908/unknown.png"></img>
 </p>
 
@@ -45,7 +45,7 @@ What if its a playlist then?
   But I can't, it just says "You don't have enough permission to use this command."! Why is it saying like this?
   <br>
   It's because you don't have "Deafen Members" Permission or don't have the dj role to perform this command (if there is a dj setup).
-  <br>
+  <br><br>
   <img src = "https://media.discordapp.net/attachments/892270315630133268/899187823507300412/unknown.png"></img>
  </p>
  
