@@ -16,3 +16,11 @@
   <h4>Why OxyBoat?</h4>
   OxyBoat is free, easy, flexible, supports most of the platforms like youtube, spotify, soundcloud, deezer etc and has alot of variety of commands that you don't even know!
 </p>
+
+<p>
+<h2>Table of contents</h2>
+---
+Home
+FAQ
+---
+</p>
