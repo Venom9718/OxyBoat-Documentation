@@ -15,3 +15,11 @@ You can play a song by joining a voice channel and providing a search query (whi
   <br>
   <img src = "https://media.discordapp.net/attachments/892270315630133268/899180084714434600/unknown.png"></img>
 </p>
+
+
+<h2>How can I see the queue or queued songs?</h2>
+<p>
+  You can see the queue by just using <u>queue</u> command in either message or slash command. One page only contain 10 songs. The now playing song will showed above and its not counted as a song in the queue! The queued songs contains its id, name/url , duration and the requester. You see a example given down below.
+<br>
+  <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899181538829303908/unknown.png"></img>
+</p>
