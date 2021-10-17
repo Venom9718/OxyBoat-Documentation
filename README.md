@@ -21,6 +21,6 @@
 <h2>Table of contents</h2>
 ---
 Home: >-
-Some basic information about OxyBoat.
+  Some basic information about OxyBoat.
 ---
 </p>
