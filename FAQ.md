@@ -32,3 +32,15 @@ What if its a playlist then?
 <br>
   <img src = "https://cdn.discordapp.com/attachments/892270315630133268/899181538829303908/unknown.png"></img>
 </p>
+
+
+<h2>How can I skip the current playing?</h2>
+<p>
+  You can use <b>skip</b> command in either message or slash command. It just skips the current playing song.
+  <br>
+  But I can't, it just says "You don't have enough permission to use this command."! Why is it saying like this?
+  <br>
+  It's because you don't have "Deafen Members" Permission or don't have the dj role to perform this command (if there is a dj setup).
+  <br>
+  <img src = "https://media.discordapp.net/attachments/892270315630133268/899187823507300412/unknown.png"></img>
+  </p>
