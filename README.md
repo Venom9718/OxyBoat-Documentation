@@ -7,3 +7,12 @@
   <h3 align = "center">A advanced discord music bot</h3>
   <h4 align = "center"><a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> ~ <a href = "https://discord.gg/jN8AKsPcwu">Support Server</a></h4>
 </p>
+
+<p>
+  <h2>Get Started</h2>
+  <h4>What is OxyBoat?</h4>
+  Oxyboat is a advanced discord music bot with some new variety of features and commands, which supports both message and slash commands. It has alot of features which most of the music bots lacks such as dj system, song request channel, buttons, context menu, and alot more!
+
+  <h4>Why OxyBoat?</h4>
+  OxyBoat is free, easy, flexiable, supports most of the platforms like youtube, spotify, soundcloud, deezer etc and has alot of variety of commands that you don't even know!
+</p>
