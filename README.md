@@ -20,7 +20,8 @@
 <p>
 <h2>Table of contents</h2>
 ---
-Home: >-
-  Some basic information about OxyBoat.
+description: >-
+  OxyBoat is a discord music bot with a wide variety of advanced music message
+  and slash commands
 ---
 </p>
