@@ -1,5 +1,5 @@
 <h1>FAQ</h1>
-<h2>Way Back</h2>
+<h2>A Way Back</h2>
 <p>
   <ul>
     <li><a href = "README.md">Home</a></li>
