@@ -20,4 +20,5 @@
 <ul>
   <li><a href = "#home">Home</a></li>
   <li><a href = "FAQ.md">FAQ</a></li>
+  <li><a href = "Features.md">Features</a></li>
 </ul>
