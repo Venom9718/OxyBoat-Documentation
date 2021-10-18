@@ -1,4 +1,10 @@
 <h1>FAQ</h1>
+<h2>Way Back</h2>
+<p>
+  <ul>
+    <li><a href = "README.md">Home</a></li>
+    </ul>
+  </p>
 <p>
 <br>
 <i>Note: <b><></b> means that it's required, <b>[]</b> this means that its optional</i>
