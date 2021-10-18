@@ -2,7 +2,7 @@
 
 <h3>24/7 Mode</h3>
 <p>
-  <b>So how does this 24/7 mode works?</b><br> The main target of 24/7 mode is stay on a given specific voice channel for a long period of time even if there is playing nor none.<br><br>
+  <b>So how does this 24/7 mode works?</b><br> The main target of 24/7 mode is to stay on a given specific voice channel for a long period of time even if there is playing nor none.<br><br>
   <b>But what if it's not enabled?</b> <br>Then it will disconnect/destroys the player when it ends the queue.<br><br>
   <b>So I've made autoplay enabled, doesn't that mean now it's 24/7 mode?</b><br> The answer is no, because the autoplay will be continue playing some random tracks but if the voice channel has no members on it and 24/7 mode is disabled, then after 60 seconds it will disconnect/destroys the player.<br><br>
   <b>What permission would the member/user or the bot should need?</b> <br>The member/user would need Manage Server/Guild Permission to perform this command and bot only needs some default permissions like Connect, Embed Links, Send Messages etc.<br><br>
