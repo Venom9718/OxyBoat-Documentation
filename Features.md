@@ -1,5 +1,9 @@
 <h1>Features</h1>
-
+<p>
+  <ul>
+    <li><a href = "README.md">Home</a></li>
+    </ul>
+  </p>
 <h3>24/7 Mode</h3>
 <p>
   <b>So how does this 24/7 mode works?</b><br> The main target of 24/7 mode is to stay on a given specific voice channel for a long period of time even if there is playing nor none.<br><br>
