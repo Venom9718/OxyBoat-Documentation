@@ -1,12 +1,10 @@
 <center>
-  <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OxyBoat&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+  <img src = "https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=OxyBoat&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"></img>
 </center>
 
-<p align = "center">
-  <h1 align = "center">OxyBoat</h1>
-  <h3 align = "center">A advanced discord music bot</h3>
-  <h4 align = "center"><a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> ~ <a href = "https://discord.gg/jN8AKsPcwu">Support Server</a></h4>
-</p>
+ <h1 align = "center">OxyBoat</h1>
+ <h3 align = "center">A advanced discord music bot</h3>
+ <h4 align = "center"><a href = "https://dsc.gg/oxyboat">Invite OxyBoat</a> ~ <a href = "https://discord.gg/jN8AKsPcwu">Support Server</a></h4>
 
 <p>
   <h2>Home</h2>
@@ -19,7 +17,7 @@
 
 <p>
 <h2>Table of contents</h2>
-<b>></b> <a href = "#home">Home</a>
-<br>
-<b>></b> <a href = "FAQ.md">FAQ</a>
-</p>
+<ul>
+  <li><a href = "#home">Home</a></li>
+  <li><a href = "FAQ.md">FAQ</a></li>
+</ul>
